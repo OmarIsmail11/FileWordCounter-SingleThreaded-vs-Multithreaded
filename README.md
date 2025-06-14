@@ -1,6 +1,6 @@
 # Multithreaded-File-Word-Counter
 
-![image](https://github.com/user-attachments/assets/99356fab-8463-436b-90c6-8c6d9518d58c)
+![image](https://github.com/user-attachments/assets/529002f0-171e-438c-b22d-1e42851e1a3a)
 
 ## About
 This Java program processes multiple text files to count the occurrences of two specific words. The goal is to compare and analyze the performance trade-offs between single-threaded and multithreaded implementations, exploring both the challenges and benefits of parallelization.
@@ -41,4 +41,5 @@ This was an assignment for the CMPS211 - Advanced Programming Techniques Course
 
 ## Demo
 
-https://github.com/user-attachments/assets/de3c634d-9113-4b1e-afe7-dfd349ab394f
+https://github.com/user-attachments/assets/65285dbb-0b59-49cc-8b55-51098ca501ce
+
